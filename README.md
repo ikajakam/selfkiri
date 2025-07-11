@@ -12,7 +12,7 @@
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/MEY-D/selfkiri.git
-   cd self-ch
+   cd selfkiri
    ```
 2. **Install dependencies:**
    ```bash
