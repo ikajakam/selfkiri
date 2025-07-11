@@ -6,7 +6,7 @@
 
 
 ### Prerequisites
-- [Node.js](https://nodejs.org/) (v16 or newer recommended)
+- [Node.js](https://nodejs.org/)
 
 ### Installation
 1. **Clone the repository:**
