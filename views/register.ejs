@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Register</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Create User</h2>
+    <form method="POST" action="/register" class="form-box">
+      <input name="username" type="text" placeholder="Username" required><br>
+      <input name="password" type="password" placeholder="Password" required><br>
+      <input name="firstname" type="text" placeholder="Firstname"><br>
+      <button type="submit">Register</button>
+    </form>
+    <div class="links">
+      <a href="/">Back to Login</a>
+    </div>
+  </div>
+  <%- include('footer') %>
+</body>
+</html> 

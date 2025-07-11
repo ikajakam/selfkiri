@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Profile</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Profile</h2>
+    <p><strong>Username:</strong> <%= user.username %></p>
+    <% if (isAdmin) { %>
+      <p><strong>API Key:</strong> <code id="api-key"><%= user.apikey %></code></p>
+    <% } else { %>
+      <p><strong>Firstname:</strong> <span><%- user.firstname %></span></p>
+      <form method="POST" action="/profile" class="form-box">
+        <label>Change Firstname:</label><br>
+        <input name="firstname" value="<%- user.firstname %>"><br>
+        <button type="submit">Update</button>
+      </form>
+    <% } %>
+    <div class="links">
+      <a href="/">Home</a> | <a href="/logout">Logout</a>
+    </div>
+  </div>
+  <%- include('footer') %>
+</body>
+</html> 
