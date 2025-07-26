@@ -121,6 +121,9 @@ app.get('/logout', (req, res) => {
 });
 
 // --- Start Server ---
-app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
+const http = require('http');
+
+const server = http.createServer(app);
+server.listen(PORT, '127.0.0.1', () => {
+  console.log(`App running at http://127.0.0.1:${PORT}`);
 });
