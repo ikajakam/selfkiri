@@ -18,6 +18,7 @@
    ```bash
    npm install
    npm install express
+   npm install express express-session better-sqlite3 ejs
    ```
 3. **Run the app:**
    ```bash
