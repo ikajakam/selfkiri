@@ -43,5 +43,5 @@ npm -v
    nohup node app.js > out.log 2>&1 &
    ```
 
-4. **Open in your browser:**
+4. **Open in your browser :**
    [http://localhost:3000](http://localhost:3000)
