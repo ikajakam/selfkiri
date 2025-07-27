@@ -17,6 +17,7 @@
 2. **Install dependencies:**
    ```bash
    npm install
+   npm install express
    ```
 3. **Run the app:**
    ```bash
