@@ -8,6 +8,8 @@
 ### Prerequisites
 - [Node.js](https://nodejs.org/)
 
+For Ubuntu / Debian (via NodeSource)
+
 ```bash
 # Download and run NodeSource setup script
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
