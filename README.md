@@ -26,7 +26,7 @@ npm -v
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/MEY-D/selfkiri.git
+   git clone https://github.com/ikajakam/selfkiri.git
    cd selfkiri
    ```
 2. **Install dependencies:**
