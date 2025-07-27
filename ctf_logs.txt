@@ -529,3 +529,300 @@ CSRF Payload: Not found
 XSS Payload: Not found
 IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
 -----------------------------------------
+
+[2025-07-27T01:53:53.190Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T01:53:53.562Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /log-client
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T01:53:53.682Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /favicon.ico
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T01:53:55.793Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T01:53:55.995Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /log-client
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T01:57:04.993Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T01:57:05.455Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /log-client
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T01:57:05.566Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /favicon.ico
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T01:59:25.879Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /login
+Payload: {"username":"wsfags","password":"fdhsrfh"}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T01:59:26.043Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T01:59:26.179Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /log-client
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T01:59:44.994Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /login
+Payload: {"username":"aaaaaaaaaaaaa","password":"aaaaaaaaaaaaaa"}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T01:59:45.088Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T01:59:45.232Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /log-client
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T01:59:51.851Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /register
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T01:59:59.995Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /register
+Payload: {"username":"aaaaaaa","password":"aaaaaaa","firstname":"aaaaaaa"}
+CSRF Payload: N/A
+XSS Payload: aaaaaaa
+------------------------------------------
+
+[2025-07-27T02:00:00.089Z]
+User: aaaaaaa
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T02:00:00.234Z]
+User: aaaaaaa
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /log-client
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T02:00:01.982Z]
+User: aaaaaaa
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /profile
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T02:00:26.762Z]
+User: aaaaaaa
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /profile
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T02:00:27.058Z]
+User: aaaaaaa
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /favicon.ico
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T02:00:32.290Z]
+User: aaaaaaa
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /logout
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T02:00:32.503Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T02:00:32.705Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /log-client
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T02:00:44.741Z]
+User: guest
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /login
+Payload: {"username":"admin","password":"very_secret_pass"}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T02:00:44.860Z]
+User: admin
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T02:00:45.050Z]
+User: admin
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /log-client
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T02:00:46.825Z]
+User: admin
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /profile
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T02:01:01.694Z]
+User: admin
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /profile?victim
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T02:01:03.619Z]
+User: admin
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /login
+Payload: {"username":"meydi","password":"123"}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T02:01:03.729Z]
+User: admin
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T02:01:04.009Z]
+User: admin
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /log-client
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
+
+[2025-07-27T02:01:05.721Z]
+User: admin
+IP: 2402:a00:192:f54:fddd:9c56:c400:adf7
+Route: /profile?attacker
+Payload: {}
+CSRF Payload: N/A
+XSS Payload: N/A
+------------------------------------------
