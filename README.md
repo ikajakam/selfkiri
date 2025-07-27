@@ -8,6 +8,21 @@
 ### Prerequisites
 - [Node.js](https://nodejs.org/)
 
+```bash
+# Download and run NodeSource setup script
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+```
+
+```bash
+# Install Node.js and npm
+sudo apt install -y nodejs
+```
+```bash
+# Verify installation
+node -v
+npm -v
+```
+
 ### Installation
 1. **Clone the repository:**
    ```bash
