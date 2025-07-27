@@ -6,7 +6,7 @@
 
 
 ### Prerequisites
-- [Node.js](https://nodejs.org/)
+[Node.js](https://nodejs.org/)
 
 For Ubuntu / Debian (via NodeSource)
 
